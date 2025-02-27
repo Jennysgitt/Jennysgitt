@@ -19,7 +19,7 @@ Welcome to my GitHub profile, I'm a Web developer based in Abuja.
 ![VSCode](https://img.shields.io/badge/-VScode-29B6F6?style=flat-square&logo=coder&logoColor=white)
 
 
-
+##
 You can reach out to me on:
 
 [<img height="24" width="24" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/jen-okoroafor-60732b12a/)
