@@ -19,14 +19,14 @@ Welcome to my GitHub profile, I'm a Web developer based in Abuja.
 ![VSCode](https://img.shields.io/badge/-VScode-29B6F6?style=flat-square&logo=coder&logoColor=white)
 
 
-##Skills
+## Skills
 - Web Development 
 - Teamwork
 - Adaptability
 - Organization
 - Management
 
-##Experience 
+## Experience 
 - Finesse Integrated Technologies
 - Danisoft Innovative Solutions Limited
 You can reach out to me on:
