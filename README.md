@@ -1,16 +1,22 @@
-## Hi there 👋
+## Rotimi Jenny
+Welcome to my GitHub profile, I'm a Web developer based in Abuja.
 
-<!--
-**Jennysgitt/Jennysgitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[View My Portfolio](https://jennysgitt.github.io)
 
-Here are some ideas to get you started:
+#### My Tech stack:
+- HTML
+- CSS
+- JavaScript
+- SQL
+- PHP
+- Python
+- Markdown
+- MaterializeCSS
+- Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach out to me on:
+LinkedIn
+Gmail 
+
+I'm looking to collaborate with companies on various projects.
+
