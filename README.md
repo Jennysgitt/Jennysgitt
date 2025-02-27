@@ -19,7 +19,16 @@ Welcome to my GitHub profile, I'm a Web developer based in Abuja.
 ![VSCode](https://img.shields.io/badge/-VScode-29B6F6?style=flat-square&logo=coder&logoColor=white)
 
 
-##
+##Skills
+- Web Development 
+- Teamwork
+- Adaptability
+- Organization
+- Management
+
+##Experience 
+- Finesse Integrated Technologies
+- Danisoft Innovative Solutions Limited
 You can reach out to me on:
 
 [<img height="24" width="24" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/jen-okoroafor-60732b12a/)
@@ -28,3 +37,4 @@ You can reach out to me on:
 
 I'm looking to collaborate with individuals and companies on various projects.
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&textBg=false&fontColor=134074&fontSize=60&section=footer)
