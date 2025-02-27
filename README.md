@@ -20,7 +20,9 @@ Welcome to my GitHub profile, I'm a Web developer based in Abuja.
 
 
 ## Skills
-- Web Development 
+- Web Development
+- Graphic Design
+- Programming
 - Teamwork
 - Adaptability
 - Organization
@@ -29,10 +31,10 @@ Welcome to my GitHub profile, I'm a Web developer based in Abuja.
 ## Experience 
 - Finesse Integrated Technologies
 - Danisoft Innovative Solutions Limited
+  
 You can reach out to me on:
 
 [<img height="24" width="24" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/jen-okoroafor-60732b12a/)
-
 [<img height="24" width="24" src="https://cdn.simpleicons.org/gmail" />](mailto:jennyrotimi365@gmail.com)
 
 I'm looking to collaborate with individuals and companies on various projects.
