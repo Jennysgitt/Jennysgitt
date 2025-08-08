@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile, I'm a Web developer based in Abuja.
 
-[View My Portfolio](https://jennysgitt.github.io)
+[View My Portfolio](https://jennysgitt.github.io/Portfolio.github.io/)
 
 #### My Tech stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
